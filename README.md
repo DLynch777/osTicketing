@@ -27,3 +27,4 @@ The following below highlights the skills and abilities that I possess regarding
 
 <img width="622" height="400" alt="image" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXN0Z2l5YzVldzkyM3JnamNjczhqdzl3MHBxdzk4bGQzcnd0YWJzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yl5aO3gdVfsQ0/giphy.gif" />
 
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/5b936ba1-e875-4519-b9dd-d1fa6ada3d22" />
